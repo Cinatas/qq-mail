@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 凭据与本地产物（正常不会出现在技能目录，这里兜底）
+accounts.json
+*.eml
+attachments/
+outbox/
+
+# 编辑器/系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
